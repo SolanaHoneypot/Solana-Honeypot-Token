@@ -1,6 +1,5 @@
 # 🍯 Solana Honeypot Token
 
-🎥 Video guide for Solana honeypot: [Solana Honeypot 🍯 Create a Honeypot Crypto on Solana](https://youtu.be/z5kteXVL3b4)<br>
 📥 Telegram PM: [@SkipsSkips](https://t.me/SkipsSkips)<br>
 📭 E-mail: solanahoneypot@gmail.com<br>
 
@@ -9,7 +8,7 @@ Guide on how to create a __honeypot token on Solana__. This script will block sa
 
 Here you will learn how to make your Solana Honeypot Token, add liquidity on Raydium, block sales to all token holders, and rug pull by removing liquidity from Raydium.
 
-Get the Solana Honeypot Script and PDF manual that will step-by-step guide you through setting up your Solana honeypot crypto
+Get the Solana Honeypot Script and detailed video that will step-by-step guide you through setting up your Solana honeypot crypto
 
 ---
 
