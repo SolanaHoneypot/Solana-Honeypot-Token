@@ -38,5 +38,5 @@ Honeypot script for Solana also comes with detailed guide that will help you to 
 ---
 
 For more information and purchase, please contact us:<br>
-📥 Telegram PM: [@SkipsSkips](https://t.me/SkipsSkips)<br>
+📥 Telegram PM: [@SkipsTrade](https://t.me/SkipsTrade)<br>
 📭 E-mail: solanahoneypot@gmail.com<br>
